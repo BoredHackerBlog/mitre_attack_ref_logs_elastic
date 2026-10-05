@@ -4,7 +4,7 @@ Elasticsearch w/ mitre attack reference logs
 Logs were loaded from:
 - https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack
 - https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
-- https://github.com/BoredHackerBlog/mitre_attack_xml_eventlogs - dc1_logs workstation1_logs
+- https://github.com/BoredHackerBlog/lazylab_forensics - dc1_logs workstation1_logs
 
 
 Steps:
